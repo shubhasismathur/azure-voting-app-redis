@@ -38,4 +38,4 @@ jobs:
         uses: azure/setup-kubectl@v3
       - name: Deploy to AKS
         id: deploy-aks
-        run: echo "Deploy to AKS Cluster!"
+        run: echo "Deploy to AKS Cluster."
